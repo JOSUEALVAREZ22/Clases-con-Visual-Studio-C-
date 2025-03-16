@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\bin\Debug\net8.0\semana 4 par.exe
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\bin\Debug\net8.0\semana 4 par.deps.json
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\bin\Debug\net8.0\semana 4 par.runtimeconfig.json
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\bin\Debug\net8.0\semana 4 par.dll
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\bin\Debug\net8.0\semana 4 par.pdb
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.AssemblyInfo.vb
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.dll
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\refint\semana 4 par.dll
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.pdb
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\semana 4 par.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\FUNDAMENTOS DE PROGRAMACION\semana 4 par\obj\Debug\net8.0\ref\semana 4 par.dll
